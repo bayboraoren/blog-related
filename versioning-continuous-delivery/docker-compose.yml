@@ -5,4 +5,4 @@ services:
     image: phauer/versioning-continuous-delivery:latest
     network_mode: "host"
     ports:
-      - "8080:8080"
+      - 8080:8080
